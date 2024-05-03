@@ -2,10 +2,6 @@
 
 This repository demonstrates the use of the `nodeps4debug` package to interact with a PS4 console.
 
-## Installation
-
-Before running the script, you need to install the necessary Node.js package. Use the package manager [npm](https://www.npmjs.com/package/nodeps4debug) to install NodePS4debug.
-
 ## Prerequisites
 
 - Node.js installed on your computer.
